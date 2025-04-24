@@ -17,4 +17,4 @@ def smallest_number(limit):
     return LCM
 
 print(smallest_number(20))
-# 232792560
+# 23279256

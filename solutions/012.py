@@ -36,15 +36,15 @@ def divisor_check(number):
 
     return divisors
 
-required_divisors = 500
+REQUIRED_DIVISORS = 500
 
-divisor = 1
-x = 0
+DIVISOR = 1
+X = 0
 
-while divisor < required_divisors:
-    x += 1
-    num = triangle_number(x)
-    divisor = divisor_check(num)
+while DIVISOR < REQUIRED_DIVISORS:
+    X += 1
+    NUM = triangle_number(X)
+    DIVISOR = divisor_check(NUM)
 
-print(num)
+print(NUM)
 # 76576500

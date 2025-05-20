@@ -103,7 +103,7 @@ Work out the first ten digits of the sum of the following one-hundred 50-digit n
 53503534226472524250874054075591789781264330331690
 """
 
-string = """
+STRING = """
 37107287533902102798797998220837590246510135740250
 46376937677490009712648124896970078050417018260538
 74324986199524741059474233309513058123726617309629
@@ -205,12 +205,12 @@ string = """
 20849603980134001723930671666823555245252804609722
 53503534226472524250874054075591789781264330331690"""
 
-string = string.replace("\n", "")
+STRING = STRING.replace("\n", "")
 
-sum = 0
+SUM = 0
 
-for i in range(0, len(string), 50):
-    number = int(string[i:i+50])
+for i in range(0, len(STRING), 50):
+    number = int(STRING[i:i+50])
     sum += number
 
 print(str(sum)[0:10])

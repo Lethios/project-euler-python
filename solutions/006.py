@@ -9,7 +9,6 @@ Hence the difference between the sum of the squares of the first ten natural num
 
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 """
-
 def difference(limit):
     sum = (limit * (limit + 1)) // 2
     sum_square = sum * sum

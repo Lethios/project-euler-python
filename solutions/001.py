@@ -12,4 +12,4 @@ for i in range(0, X):
         SUM += i
 
 print(SUM)
-# 233168
+# 23316

@@ -1,4 +1,6 @@
 """
+https://projecteuler.net/problem=20
+
 n! means n x (n-1) x ··· x 3 x 2 x 1.
 
 For example, 10! = 10 x 9 x ··· x 3 x 2 x 1 = 3628800,

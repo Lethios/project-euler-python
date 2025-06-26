@@ -1,4 +1,6 @@
 """
+https://projecteuler.net/problem=29
+
 Consider all integer combinations of aᵇ for 2 ≤ a ≤ 5 and 2 ≤ b ≤ 5:
 
 2² = 4, 2³ = 8, 2⁴ = 16, 2⁵ = 32

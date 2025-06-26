@@ -1,4 +1,6 @@
 """
+https://projecteuler.net/problem=30
+
 Surprisingly there are only three numbers that can be written as the sum of fourth powers of their digits:
 
 1634 = 1⁴ + 6⁴ + 3⁴ + 4⁴

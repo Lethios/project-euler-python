@@ -1,4 +1,6 @@
 """
+https://projecteuler.net/problem=42
+
 The nth term of the sequence of triangle numbers is given by, tₙ = ½n(n + 1): so the first ten triangle numbers are:
 
 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ...

@@ -1,10 +1,4 @@
-"""
-https://projecteuler.net/problem=10
-
-The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
-
-Find the sum of all the primes below two million.
-"""
+# https://projecteuler.net/problem=10
 
 def eratosthenes_sieve(limit):
     prime_list = [True] * (limit + 1)

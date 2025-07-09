@@ -1,4 +1,4 @@
-https://projecteuler.net/problem=40
+# https://projecteuler.net/problem=40
 
 def champernowne_constant(n):
     constant = "0."

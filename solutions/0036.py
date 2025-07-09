@@ -1,4 +1,4 @@
-https://projecteuler.net/problem=36
+# https://projecteuler.net/problem=36
 
 def is_palindrome(n):
     return str(n) == str(n)[::-1]

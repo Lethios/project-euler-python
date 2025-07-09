@@ -1,16 +1,4 @@
-"""
 https://projecteuler.net/problem=40
-
-An irrational decimal fraction is created by concatenating the positive integers:
-
-0.123456789101112131415161718192021...
-
-It can be seen that the 12th digit of the fractional part is 1.
-
-If dₙ represents the nth digit of the fractional part, find the value of the following expression.
-
-d₁ x d₁₀ x d₁₀₀ x d₁₀₀₀ x d₁₀₀₀₀ x d₁₀₀₀₀₀ x d₁₀₀₀₀₀₀
-"""
 
 def champernowne_constant(n):
     constant = "0."

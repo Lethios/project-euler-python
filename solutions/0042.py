@@ -1,4 +1,4 @@
-# https://projecteuler.net/problem=4
+# https://projecteuler.net/problem=42
 
 def triangle_number_list(terms):
     number_list = set()

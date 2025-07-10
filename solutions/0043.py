@@ -1,4 +1,4 @@
-#https://projecteuler.net/problem=43
+# https://projecteuler.net/problem=43
 
 from itertools import permutations
 

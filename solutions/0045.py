@@ -1,4 +1,3 @@
-"""
 https://projecteuler.net/problem=45
 
 def triangle_number(n):

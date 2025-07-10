@@ -1,4 +1,3 @@
-"""
 https://projecteuler.net/problem=48
 
 def power_sum_series(n):

@@ -1,4 +1,5 @@
 
+
 count = 0
 
 for power in range(1, 5000):

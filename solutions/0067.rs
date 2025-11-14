@@ -2,7 +2,7 @@
 
 use std::{cmp, fs};
 
-fn maximum_path_sum_i(input: &str) -> u32 {
+fn maximum_path_sum_ii(input: &str) -> u32 {
     let mut triangle: Vec<Vec<u32>> = input
         .lines()
         .map(|line| {

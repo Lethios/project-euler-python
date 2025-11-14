@@ -24,7 +24,7 @@ fn maximum_path_sum_ii(input: &str) -> u32 {
 fn main() {
     let input: String = fs::read_to_string("input.txt").expect("Failed to read input file");
 
-    println!("Answer: {}", maximum_path_sum_i(&input));
+    println!("Answer: {}", maximum_path_sum_ii(&input));
     // 7273
 }
 
